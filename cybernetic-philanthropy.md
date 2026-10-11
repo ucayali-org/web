@@ -1,4 +1,4 @@
-# Teleological Philanthropy - The Minimum Viable Intervention
+# Cybernetic Philanthropy - The Minimum Viable Intervention
 
 What is one change we could make to an existing process that is likely to produce a net-positive step toward a community's stated objectives with as little disruption as possible?
 
@@ -18,22 +18,24 @@ Initiatives are not driven from the outside. We start by visiting a community an
 
 ## Example: Purchasing Power Amplification
 
-What if, whenever Santa Rosa sends someone to town by boat to buy gasoline, as they do now, we met them at the port and matched their gasoline purchase dollar for dollar? If they show up with s/ 100 using their existing process, we will match that s/ 100 and they will leave with s/ 200 worth of gasoline. This might allow them to run their water pump 4 days a week rather than 2 days per week which represents progress toward their goal of 24/7 access to running water.
+What if, whenever Santa Rosa sends someone to town by boat to buy gasoline for their water pump generator, as they do now, we meet them at the port and matched their gasoline purchase dollar-for-dollar? If they show up with s/ 100 using their existing process, we will match that s/ 100 and they will leave with s/ 200 worth of gasoline. This might allow them to run their water pump 4 days a week rather than 2 days per week which represents progress toward their goal of 24/7 access to running water.
 
-However, there are a number of systemic outcomes that this amplification might produce:
+However, there are a number of systemic outcomes that this intervention might produce:
 
 1. The community spends the same amount of money as before and runs the pump 4 days per week (good progress, no savings).
-2. The community spends half as much money as before and continues to run the pump 2 days per week (no progress, good savings).
-3. The community spends 75% of what it did before and runs the pump 3 days per week (some progress, some savings).
+2. The community spends half as much money as before and continues to run the pump 2 days per week (no progress, 50% savings).
+3. The community spends 75% of what it did before and runs the pump 3 days per week (some progress, 25% savings).
 
 The agreement places only one restriction; That the gasoline purchased be used to run the generator that powers the water pump. The community is free to decide whether to make progress toward their goal, save money and make do, or some middle ground between the two.
 
 This self-determination is vitally important for a number of reasons:
 
-*Cultural* - Indigenous communities have existing power structures that enable collective decision making. Any process that imposes restrictions from the outside disempowers community leadership, diminishing the necessity of these structures which could harm the community's effective decision making capabilities. The community should never be made to feel like it needs to ask permission from an outside entity in order to make a change regarding its internal affairs. Restrictions can never be eliminated, but they must always be minimized.
+*Culture* - Indigenous communities have existing power structures that enable collective decision making. Any process that imposes restrictions from the outside disempowers community leadership, diminishing the necessity of these structures which could harm the community's effective decision making capabilities. No community should ever be made to feel like it needs to ask permission from an outside entity in order to make a change regarding its internal affairs. Restrictions on use of funds can never be eliminated, but they must always be minimized.
 
-*Teleological* - If the community has no agency, there is no basis for learning. The stated goal of 24/7 access to running water is based on collective conversation and experience but its primacy is theoretical. The community might choose to leave water availability where it is and divert the excess funds toward some other challenge (ie. food security or education). Self-determination is necessary for the community to discover these priorities for themselves. The community will be best served when these priorities are allowed to change freely over time at the community's sole discretion.
+*Teleology* - If the community has no agency, there is no basis for learning. The stated goal of 24/7 access to running water is based on collective conversation and experience but its primacy is theoretical. The community might choose to leave water availability where it is and divert the excess funds toward some other challenge (ie. food security or education). Self-determination is necessary for the community to discover these priorities for themselves. The community will be best served when these priorities are allowed to change freely over time at the community's sole discretion.
 
-*Innovational* - Rumors are spreading that some portion of the purchased gasoline is being sold. Does this violate the agreement? Maybe not. As long as the money gained from selling the gasoline is reinvested in purchasing more gasoline for the pump and not diverted into anyone's pocket, then the agreement is indirectly upheld. If the community sells half the gasoline it receives and reserves those funds for the next week's gasoline purchase they have effectively invented their own mechanism to further amplify their purchasing power, freeing up capital to pursue other goals. This will naturally lead to new restrictions (ie. purchase volume cap) strengthening the policy framework with clear exemplary justification. These developments should be celebrated so long as they align with the spirit of the agreement and don't unfairly benefit any subset of the community. Agency is a necessary precursor to innovation. 
+*Innovation* - Rumors are spreading that some portion of the purchased gasoline is being sold. Does this represent a violation of the agreement? Perhaps not. As long as the money gained from selling the gasoline is reinvested in purchasing more gasoline for the pump and not diverted into anyone's pocket, then the agreement is indirectly upheld. If the community sells half the gasoline it receives and reserves those funds for the next week's gasoline purchase they have effectively invented their own mechanism to further amplify their purchasing power, created a new gasoline delivery service to serve their community and freed up capital to advance secondary objectives. This will naturally lead to new restrictions (ie. purchase volume cap) strengthening the policy framework with clear exemplary justification to accelerate the learning process in future initiatives. These unexpected developments should be celebrated so long as they align with the spirit of the agreement and don't unfairly benefit any subset of the community.
+
+*Growth* - Agency is a necessary precursor to innovation. Innovation empowers individuals and communities with a renewed sense of accomplishment and self-determination. This combination forms a positive feedback loop that, if managed well, can drive individuals and communities to achieve more than they ever dreamed possible.
 
 

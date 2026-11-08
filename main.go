@@ -34,6 +34,15 @@ func handle_static(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "Not Found : "+r.URL.Path, 404)
 		return
 	}
+	if stat.IsDir() {
+		idxPath := filepath.Join(path, "index.html")
+		_, err := os.Stat(idxPath)
+		if err == nil {
+			file, _ := ioutil.ReadFile(idxPath)
+			w.Write(file)
+			return
+		}
+	}
 	// 304
 	modHdr := r.Header.Get("If-Modified-Since")
 	modTime := stat.ModTime()
@@ -51,8 +60,8 @@ func handle_static(w http.ResponseWriter, r *http.Request) {
 	file, _ := ioutil.ReadFile(path)
 	w.Write(file)
 }
+
 func handle_index(w http.ResponseWriter, r *http.Request) {
 	file, _ := ioutil.ReadFile("./public/index.html")
 	w.Write(file)
-	// http.ServeFile(w, r, "./index.html")
 }

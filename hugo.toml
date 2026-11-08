@@ -1,0 +1,4 @@
+baseURL = 'https://ucayali.org/'
+locale = 'en-us'
+title = 'Ucayali.org'
+theme = 'ananke'

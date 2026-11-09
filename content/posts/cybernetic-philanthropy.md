@@ -7,7 +7,11 @@ author = 'Kevin Burns'
 
 What is one change we could make to an existing process that is likely to produce a net-positive step toward a community's stated objectives with as little disruption as possible?
 
-Santa Rosa already has a social water acquisition system that functions well enough to support the community. The community funds and operates a gasoline powered generator that runs a pump in a well to provide running water for 3 hours a day, 2 days a week. The water is there, it's just a matter of producing the energy required to pump it to the surface.
+Two hours by boat outside the city of Pucallpa in the Peruvian amazon, there is an indigenous community of about 300 people named [Santa Rosa](https://maps.app.goo.gl/WT26mrdW79UFt4zN9).
+
+![Santa Rosa water tanks](/i/santa-rosa/tanks.png)
+
+Santa Rosa has a social water acquisition system that functions well enough to support the community. The community funds and operates a gasoline powered generator that runs a pump in a well to provide running water for 3 hours a day, 2 days a week. The water is there, it's just a matter of producing the energy required to pump it to the surface.
 
 Community leadership states that their goal is to reach free 24/7 access to running water throughout the community. A system created to achieve this goal might take many forms. Weighing the relative benefits of (ie.) a permanent diesel generator vs a solar battery system requires knowledge about the community's social structure, relationships with other communities and regional availability of infrastructure resources.
 
@@ -21,6 +25,8 @@ As we learn what doesn't work, a regulatory framework will emerge forming a mini
 
 Initiatives are not driven from the outside. We start by visiting a community and speaking with the recognized authorities to learn what challenges they encounter in the face of changing climate. From there, we reduce these challenges to a set of goals and propose minimal interventions that might help move them one step further toward their goal.
 
+![Santa Rosa water tanks](/i/santa-rosa/motelo-mama.png)
+
 ## Example: Purchasing Power Amplification
 
 What if, whenever Santa Rosa sends someone to town by boat to buy gasoline for their water pump generator, as they do now, we meet them at the port and matched their gasoline purchase dollar-for-dollar? If they show up with s/ 100 using their existing process, we will match that s/ 100 and they will leave with s/ 200 worth of gasoline. This might allow them to run their water pump 4 days a week rather than 2 days per week which represents progress toward their goal of 24/7 access to running water.
@@ -28,8 +34,8 @@ What if, whenever Santa Rosa sends someone to town by boat to buy gasoline for t
 However, there are a number of systemic outcomes that this intervention might produce:
 
 1. The community spends the same amount of money as before and runs the pump 4 days per week (good progress, no savings).
-2. The community spends half as much money as before and continues to run the pump 2 days per week (no progress, 50% savings).
-3. The community spends 75% of what it did before and runs the pump 3 days per week (some progress, 25% savings).
+2. The community spends half as much money as before and continues to run the pump 2 days per week (no progress, good savings).
+3. The community spends 75% of what it did before and runs the pump 3 days per week (some progress, some savings).
 
 The agreement places only one restriction; That the gasoline purchased be used to run the generator that powers the water pump. The community is free to decide whether to make progress toward their goal, save money and make do, or some middle ground between the two.
 

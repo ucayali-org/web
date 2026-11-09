@@ -29,7 +29,7 @@ Initiatives are not driven from the outside. We start by visiting a community an
 
 ## Example: Purchasing Power Amplification
 
-What if, whenever Santa Rosa sends someone to town by boat to buy gasoline for their water pump generator, as they do now, we meet them at the port and matched their gasoline purchase dollar-for-dollar? If they show up with s/ 100 using their existing process, we will match that s/ 100 and they will leave with s/ 200 worth of gasoline. This might allow them to run their water pump 4 days a week rather than 2 days per week which represents progress toward their goal of 24/7 access to running water.
+What if, whenever Santa Rosa sends someone to town by boat to buy gasoline for their water pump generator, as they do now, we meet them at the port and match their gasoline purchase dollar-for-dollar? If they show up with s/ 100 using their existing process, we will match that s/ 100 and they will leave with s/ 200 worth of gasoline. This might allow them to run their water pump 4 days a week rather than 2 days per week which represents progress toward their goal of 24/7 access to running water.
 
 However, there are a number of systemic outcomes that this intervention might produce:
 
